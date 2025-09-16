@@ -1,0 +1,62 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.191342",
+  "default_ports": [
+    80,
+    443,
+    16443
+  ],
+  "dependencies": [],
+  "description": "microk8s is a free and open-source minimal, lightweight Kubernetes. Developed by Canonical, MicroK8s provides a single-package Kubernetes for developers, IoT, and edge deployments",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/microk8s",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/microk8s",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.191369",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "microk8s",
+  "repository_url": "https://github.com/howtomgr/microk8s",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "microk8s Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/microk8s"
+}
